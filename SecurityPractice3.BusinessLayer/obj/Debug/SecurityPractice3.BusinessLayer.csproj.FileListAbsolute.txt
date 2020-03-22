@@ -1,0 +1,5 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityPractice3\SecurityPractice3.BusinessLayer\bin\Debug\SecurityPractice3.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityPractice3\SecurityPractice3.BusinessLayer\bin\Debug\SecurityPractice3.BusinessLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityPractice3\SecurityPractice3.BusinessLayer\obj\Debug\SecurityPractice3.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityPractice3\SecurityPractice3.BusinessLayer\obj\Debug\SecurityPractice3.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\SecurityPractice3\SecurityPractice3.BusinessLayer\obj\Debug\SecurityPractice3.BusinessLayer.pdb
